@@ -4,7 +4,7 @@ Tick a box once that week is pushed to this repo.
 
 ## NAVTTC Tasks
 
-- [ ] Week_01 - Python basics: variables, control flow, loops, data structures (tasks 01-25)
+- [x] Week_01 - Python basics: variables, control flow, loops, data structures (tasks 01-25)
 - [ ] Week_02 - Functions, exceptions, statistics (tasks 20, 26, 27, 49, 50)
 - [ ] Week_03 - NumPy and Pandas (tasks 28-48)
 - [ ] Week_04 - NumPy and Pandas, continued (tasks 28-48)
