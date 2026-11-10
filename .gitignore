@@ -6,3 +6,4 @@ __pycache__/
 .ipynb_checkpoints/
 # Spotify project is its own git repo
 Netsol Tasks/Week 05/Spotify Music Recommendation System/
+ROADMAP.md
