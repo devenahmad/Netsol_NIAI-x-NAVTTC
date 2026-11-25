@@ -27,7 +27,17 @@ run by NAVTTC together with Netsol (NIAI). Everything is organised week by week.
 | Week 03 | Exploratory data analysis (Cars, Online Food Ordering) |
 | Week 04 | ML optimization lab |
 | Week 05 | Regression challenge, KNN, Naive Bayes, SVM, datasets |
-| Week 06 | Decision tree and lecture worksheets |
+| Week 06 | Decision trees, entropy, ensembles and XGBoost, neural network training, regularization, activations, bias and variance |
+
+### Root files
+
+Sample data and text files (`students.csv`, `top_students.csv`, `demo.txt`) and copies of the
+plots saved by tasks 51, 53, 54, 55 and 64.
+
+## Status
+
+Last updated: 25 November 2026. All completed work up to this date is uploaded.
+Some remaining Netsol tasks are still to be done and will be added later.
 
 ## Setup
 
